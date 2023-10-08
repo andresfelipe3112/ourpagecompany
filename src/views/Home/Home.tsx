@@ -74,7 +74,7 @@ const Home = () => {
         <div className="contenedorPrincipal">
           <div className="primerasSecciones">
             <div className="seccionUno">
-              <img src={analisis} alt="icono analisis" className="icon" />
+              <img src={planificacion} alt="icono analisis" className="icon" />
               <h3 className="seccionUno-tituloUno">DESARROLLO WEB</h3>
               <p className="parrafoSeccionUno">
                 Tenemos experiencia comprobable en desarrollo de proyectos web y
